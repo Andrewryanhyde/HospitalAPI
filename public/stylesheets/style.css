@@ -1,0 +1,116 @@
+/* Basic CSS imported from previous work for testing, not specific to this API*/
+
+#nav {
+  height: 10%;
+  width: auto;
+  background: #1b1b1b;
+}
+
+body {
+  background: #1b1b1b;
+
+}
+
+#logo {
+  font-family: "GlacialIndifferenceRegular";
+  font-weight: normal;
+  font-style: normal;
+  font-size: 24px;
+  letter-spacing: 7px;
+  color: #ffffff;
+  text-align: center;
+  margin-top: 3%;
+
+}
+
+table {
+  margin-top: 15px;
+  border: none;
+  border-collapse: collapse;
+  color: #ffffff;
+  font-family: "GlacialIndifferenceRegular";
+  font-weight: normal;
+  font-style: normal;
+  width: auto;
+
+}
+
+.title {
+  font-family: "GlacialIndifferenceRegular";
+  font-weight: normal;
+  font-style: normal;
+  font-size: 20px;
+  color: #ffffff;
+  text-align: center;
+  margin-top: 4%;
+}
+
+
+#links a{
+  color: #ffffff;
+  font-family: "GlacialIndifferenceRegular";
+  font-weight: normal;
+  font-style: normal;
+  font-size: 10px;
+}
+
+#links {
+  margin-bottom: 2%;
+
+  width: 90%;
+  margin-right: 10%;
+}
+
+.form-title {
+  font-family: "GlacialIndifferenceRegular";
+  font-weight: normal;
+  font-style: normal;
+  font-size: 20px;
+  color: #ffffff;
+}
+
+.form-container {
+  text-align: center;
+  margin-top: 10%;
+}
+
+#login-form-signup-link {
+  margin-top: 10%;
+  font-family: "GlacialIndifferenceRegular";
+  font-weight: normal;
+  font-style: normal;
+  font-size: 18px;
+  color: #ffffff;
+  text-decoration: none;
+}
+
+#submit {
+  font-family: "GlacialIndifferenceRegular";
+  font-weight: normal;
+  font-style: normal;
+  font-size: 18px;
+  color: #ffffff;
+  background-color: #1b1b1b;
+  border: none;
+}
+
+.submit {
+  font-family: "GlacialIndifferenceRegular";
+  font-weight: normal;
+  font-style: normal;
+  font-size: 18px;
+  color: #ffffff;
+  background-color: #1b1b1b;
+  border: none;
+  text-align: center;
+}
+
+
+.flash {
+  font-family: "GlacialIndifferenceRegular";
+  font-weight: normal;
+  font-style: normal;
+  font-size: 18px;
+  color: #ffffff;
+}
+

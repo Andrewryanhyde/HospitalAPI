@@ -21,7 +21,7 @@ var UserSchema = new Schema({
     required: 'Please enter a type.'
   },
   onLeave: {
-    type: Boolean,
+    type: String,
     required: 'Please say whether or not this person is on leave.'
   },
   specialties: {
@@ -31,10 +31,6 @@ var UserSchema = new Schema({
   biography: {
     type: String,
     required: 'Please enter a biography.'
-  },
-  Created_date: {
-    type: Date,
-    default: Date.now
   }
 });
 
